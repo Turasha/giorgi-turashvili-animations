@@ -1,0 +1,197 @@
+h1{
+    font-size: 50px;
+    font-weight: 700;
+    text-align: center;
+    padding: 40px 40px;
+}
+p{
+    font-size: 30px;
+    font-weight: 400;
+    text-align: center;
+}
+.pitch{
+    margin-left: 50px;
+    height: 980px;
+    width: 1480px;
+    position: relative;
+}
+.red-1{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 250px;
+    left: 650px;
+}
+.red-2{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 280px;
+    left: 650px;
+}
+.red-3{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+}
+.red-4{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 265px;
+    left: 625px;
+}
+.red-5{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 295px;
+    left: 625px;
+}
+.red-6{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 235px;
+    left: 625px;
+}
+.red-7{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 325px;
+    left: 625px;
+}
+.red-8{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 280px;
+    left: 600px;
+}
+.red-9{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 280px;
+    left: 560px;
+}
+.red-10{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 380px;
+    left: 500px;
+}
+.red-12{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 490px;
+    left: 450px;
+}
+.red-13{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 580px;
+    left: 400px;
+}
+.red-14{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 670px;
+    left: 350px;
+}
+.red-11{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+}
+.red-15{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: red;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 400px;
+    left: 250px;
+}
