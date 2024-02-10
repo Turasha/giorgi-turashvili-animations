@@ -1,3 +1,4 @@
+/* red */
 h1{
     font-size: 50px;
     font-weight: 700;
@@ -24,8 +25,8 @@ p{
     border-radius: 50%;
     align-items: center;
     position: absolute;
-    top: 250px;
-    left: 650px;
+    top: 310px;
+    right: 765px;
 }
 .red-2{
     display: flex;
@@ -37,7 +38,7 @@ p{
     align-items: center;
     position: absolute;
     top: 280px;
-    left: 650px;
+    right: 765px;
 }
 .red-3{
     display: flex;
@@ -48,8 +49,8 @@ p{
     border-radius: 50%;
     align-items: center;
     position: absolute;
-    top: 310px;
-    left: 650px;
+    top: 250px;
+    right:765px;
 }
 .red-4{
     display: flex;
@@ -60,8 +61,8 @@ p{
     border-radius: 50%;
     align-items: center;
     position: absolute;
-    top: 265px;
-    left: 625px;
+    top: 295px;
+    right: 740px;
 }
 .red-5{
     display: flex;
@@ -72,8 +73,8 @@ p{
     border-radius: 50%;
     align-items: center;
     position: absolute;
-    top: 295px;
-    left: 625px;
+    top: 265px;
+   right: 740px;
 }
 .red-6{
     display: flex;
@@ -84,8 +85,8 @@ p{
     border-radius: 50%;
     align-items: center;
     position: absolute;
-    top: 235px;
-    left: 625px;
+    top: 325px;
+    right: 740px;
 }
 .red-7{
     display: flex;
@@ -96,20 +97,21 @@ p{
     border-radius: 50%;
     align-items: center;
     position: absolute;
-    top: 325px;
-    left: 625px;
+    top: 235px;
+    right: 740px;
 }
 .red-8{
     display: flex;
     height: 30px;
     width: 30px;
     background-color: red;
+    
     justify-content: center;
     border-radius: 50%;
     align-items: center;
     position: absolute;
     top: 280px;
-    left: 600px;
+    right: 715px;
 }
 .red-9{
     display: flex;
@@ -120,8 +122,8 @@ p{
     border-radius: 50%;
     align-items: center;
     position: absolute;
-    top: 280px;
-    left: 560px;
+    top: 350px;
+    right: 780px;
 }
 .red-10{
     display: flex;
@@ -133,7 +135,8 @@ p{
     align-items: center;
     position: absolute;
     top: 380px;
-    left: 500px;
+    right: 600px;
+    animation: movered10 3s both;
 }
 .red-12{
     display: flex;
@@ -145,7 +148,8 @@ p{
     align-items: center;
     position: absolute;
     top: 490px;
-    left: 450px;
+    right: 600px;
+    animation: movered12 3s both;
 }
 .red-13{
     display: flex;
@@ -157,7 +161,8 @@ p{
     align-items: center;
     position: absolute;
     top: 580px;
-    left: 400px;
+    right: 600px;
+    animation: movered13 3s 2s both;
 }
 .red-14{
     display: flex;
@@ -169,7 +174,8 @@ p{
     align-items: center;
     position: absolute;
     top: 670px;
-    left: 350px;
+    right: 600px;
+    animation: movered14 3s 3s both;
 }
 .red-11{
     display: flex;
@@ -181,7 +187,7 @@ p{
     align-items: center;
     position: absolute;
     top: 200px;
-    left: 450px;
+    right: 600px;
 }
 .red-15{
     display: flex;
@@ -192,6 +198,255 @@ p{
     border-radius: 50%;
     align-items: center;
     position: absolute;
+    top: 500px;
+    right: 400px;
+    animation: movered15 5s both;
+}
+/* blue */
+.blue-1{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 250px;
+    left: 650px;
+}
+.blue-2{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 280px;
+    left: 650px;
+}
+.blue-3{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 310px;
+    left: 650px;
+}
+.blue-4{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 265px;
+    left: 625px;
+}
+.blue-5{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 295px;
+    left: 625px;
+}
+.blue-6{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 235px;
+    left: 625px;
+}
+.blue-7{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 325px;
+    left: 625px;
+}
+.blue-8{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 280px;
+    left: 600px;
+}
+.blue-9{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 280px;
+    left: 560px;
+    animation: moveblue9 5s 3s both  ;
+}
+.blue-10{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 380px;
+    left: 500px;
+    animation: moveblue10 3s 2s both;
+}
+.blue-12{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 490px;
+    left: 450px;
+    animation: moveblue12 8s 3.5s both;
+}
+.blue-13{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 580px;
+    left: 400px;
+    animation: moveblue13 8s 6.7s both;
+}
+.blue-14{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 670px;
+    left: 350px;
+    animation: moveblue14 10.5s 10s ease-in-out;
+}
+.blue-11{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
+    top: 200px;
+    left: 450px;
+}
+.blue-15{
+    display: flex;
+    height: 30px;
+    width: 30px;
+    background-color: blue;
+    justify-content: center;
+    border-radius: 50%;
+    align-items: center;
+    position: absolute;
     top: 400px;
     left: 250px;
+}
+.ball{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 285px;
+    left: 575px;
+    animation: moveball 18.5s linear both;
+}
+@keyframes moveball {
+    0%{top:285px; left: 575px;}
+    10%{top:380px;left:500px;}
+    20%{left:700px; top: 450px;}
+    30%{top: 530px; left: 630px;}
+    40%{top: 530px; left: 680px;}
+    50%{top: 600px; left: 650px;}
+    60%{top: 670px; left: 650px;}
+    70%{top: 680px; left: 720px;}
+    80%{top: 720px; left: 700px;}
+    100%{top: 740px; left: 1250px;}
+}
+@keyframes moveblue10 {
+    0%{top:380px;left:500px;}
+    100%{left:700px; top: 450px;}
+    
+}
+@keyframes movered10{
+    0%{  top: 380px; right: 600px;}
+    100%{ top: 430px; right: 730px;}
+}
+@keyframes movered12 {
+    0%{top: 490px; right: 600px;}
+    100%{top: 470px;right: 730px;}
+}
+@keyframes movered15{
+    0%{top: 500px; right: 400px;}
+    100%{top: 530px;right:700px;}
+}
+@keyframes moveblue9{
+    0%{ top: 280px; left: 560px;}
+    50%{top: 530px; left: 630px; }
+    100%{top: 530px; left: 680px;}
+}
+@keyframes moveblue12{
+    0%{top: 490px; left: 450px;}
+    100%{top: 600px; left: 680px;}
+}
+@keyframes moveblue13{
+    0%{top: 580px;left: 400px;}
+    100%{top: 680px; left: 720px;}
+}
+@keyframes moveblue14{
+    0%{top: 670px; left: 350px;}
+    100%{top: 740px; left: 1250px;}
+}
+@keyframes movered13{
+    0%{top: 580px; right: 600px;}
+    100%{top: 600px; right: 730px;}
+}
+@keyframes movered14{
+    0%{top: 670px; right: 600px;}
+    100%{top: 680px; right: 700px;}
 }
